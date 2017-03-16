@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LayoutTest</string>
+    <string name="auth_welcome">身份信息认证</string>
+    <string name="auth_1">  提前防范身份信息不被冒用</string>
+    <string name="auth_2">  提升你的中天账户安全等级</string>
+    <string name="auth_3">  获得中天系统更多高级功能</string>
+    <string name="start_auth">开始认证</string>
+    <string name="auth_next">下一步</string>
+    <string name="security_noti">中通快递将依法保护您的隐私与信息安全</string>
+    <string name="auth_username">请上传*子庆的有效二代身份证</string>
+</resources>
